@@ -1,0 +1,19 @@
+
+      <!--Deal Of Th Day Section Starts-->
+      
+      <section id="deal" class="wrapper">
+          <div class="container">
+              <div class="row gy-4">
+                  <div class="col-12">
+                      <div class="deal-image">
+                          <img src="Jewellery/img-4.jpg" class="img-fluid">
+                      </div>
+                      <div class="content-deal">
+                          <h2>DEALS OF THE DAY</h2>
+                          <span>UPTO 60% OFF</span>
+                          <p>At riscus vivertta adipscing at. laculis urna id volutpat lacus laoreet non curbitur. Enim lobotis scelerisque women dui faucibius in. Nisl suscipt adipscing</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </section>
